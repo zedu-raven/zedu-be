@@ -1,6 +1,6 @@
 # Zedu API
 
-The **Zedu API** is a scalable Go-based backend service that integrates multiple data sources and technologies such as PostgreSQL, Redis, MinIO, MongoDB, Firebase, RabbitMQ, TypeSense, and Stripe. It also supports background jobs, external service integration, and real-time notifications.
+The **Zedu API** is a scalable Go-based backend service that integrates multiple data sources and technologies such as PostgreSQL, Redis, MinIO, MongoDB, Elasticsearch, Firebase, RabbitMQ, and Stripe. It also supports background jobs, external service integration, and real-time notifications.
 
 
 ## 🚀 Features
@@ -9,7 +9,6 @@ The **Zedu API** is a scalable Go-based backend service that integrates multiple
 - Redis caching
 - MinIO for object storage
 - MongoDB support
-- TypeSense for search indexing     <--No longer in use -->
 - Elasticsearch integration
 - Stripe for payments
 - RabbitMQ for async task queues
