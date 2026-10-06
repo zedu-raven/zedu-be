@@ -43,14 +43,14 @@ Make sure all services are installed and running locally or in Docker containers
 
 ```sh
 
-    git clone https://github.com/telexorg/telex_be.git
+    git clone https://github.com/zedu-raven/zedu-be.git
 ```
 
 2. Change your active directory in the project.
 
 ```sh
 
-   cd telex_be
+   cd zedu-be
 ```
 
 3. Copy `app-sample.env` into `app.env`.
